@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "history": "https://github.com/CloudComputing-24/history.git",
+    "video-streaming": "https://github.com/CloudComputing-24/video-streaming.git",
+    "db": "https://github.com/CloudComputing-24/db.git"
+  }
+}
